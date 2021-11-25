@@ -12,10 +12,10 @@ I'm a full stack developer, currently working with Laravel, Vue web applications
 
 
 ### Currently, Working on 🎉
+- **[Anaxi](https://anaxi.co)** - An unique platform to improve teachers productivity, building with Tailwind, Vue & Laravel.
 - **[Beast Boxes](https://beast-boxes.com)** - A digital mystery box gaming website built with Laravel framework.
 
 ### Recent Projects 🎉
-- **[Anaxi](https://anaxi.co)** - An unique platform to improve teachers productivity, building with Tailwind, Vue & Laravel.
 - **[Spectiv](https://specter-stage.herokuapp.com)** - An affiliated product showcase website. 
 
 ### Have an idea to share? 💬
