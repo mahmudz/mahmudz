@@ -13,7 +13,7 @@ I'm a full stack developer, currently working with Laravel, Vue web applications
 <br>
 
 ### Current Works
-- **[Singo.IO][https://singo.io]** - Singo - Music Distribution Publish Your Music On Spotify & Co.
+- **[Singo.IO](https://singo.io)** - Singo - Music Distribution Publish Your Music On Spotify & Co.
 
 ### Recent Projects 🎉
 - **[Anaxi](https://anaxi.co)** - An unique platform to improve teachers productivity, building with Tailwind, Vue & Laravel.
