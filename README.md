@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://github.com/mahmudz/mahmudz/blob/master/banner.svg" width="100%" height="200">
+	<img src="https://github.com/mahmudz/mahmudz/blob/master/banner.png" width="100%">
 </div>
 
 <br>  
@@ -13,10 +13,11 @@ I'm a full stack developer, currently working with Laravel, Vue web applications
 <br>
 
 ### Recent Projects 🎉
+- **[Megaradio](https://megaradio.live/en/)** - Megaradio - A modern internet radio platform.
 - **[Singo.IO](https://singo.io)** - Singo - Music Distribution Publish Your Music On Spotify & Co.
 - **[Anaxi](https://anaxi.co)** - An unique platform to improve teachers productivity, building with Tailwind, Vue & Laravel.
 - **[Beast Boxes](https://beast-boxes.com)** - A digital mystery box gaming website built with Laravel framework.
-- **[Spectiv](https://specter-stage.herokuapp.com)** - An affiliated product showcase website. 
+
 
 ### Have an idea to share? 💬
 Drop me an email at [mahmudbappy.pri@gmail.com](mailto:mahmudbappy.pri@gmail.com)
