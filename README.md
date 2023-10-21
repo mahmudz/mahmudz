@@ -22,4 +22,4 @@ I'm a full stack developer, currently working with Laravel, Vue web applications
 ### Have an idea to share? 💬
 Drop me an email at [mahmudbappy.pri@gmail.com](mailto:mahmudbappy.pri@gmail.com)
 
-<img src="https://komarev.com/ghpvc/?username=mahmudz" style="display: none;">
+![](https://komarev.com/ghpvc/?username=mahmudz&style=for-the-badge)
