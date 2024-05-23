@@ -13,6 +13,7 @@ I'm a full stack developer, currently working with Laravel, Vue web applications
 <br>
 
 ### Recent Projects 🎉
+- **[ArtgraphAI](https://artgraph.ai/)** - ArtgraphAI - Artist market, analyzed.
 - **[Megaradio](https://megaradio.live/en/)** - Megaradio - A modern internet radio platform.
 - **[Singo.IO](https://singo.io)** - Singo - Music Distribution Publish Your Music On Spotify & Co.
 - **[Beast Boxes](https://beast-boxes.com)** - A digital mystery box gaming website built with Laravel framework.
