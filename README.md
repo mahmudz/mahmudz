@@ -20,6 +20,6 @@ I'm a full stack developer, currently working with Laravel, Vue web applications
 - **[Anaxi](https://anaxi.co)** - An unique platform to improve teachers productivity, building with Tailwind, Vue & Laravel.
 
 
-Ask me anyhing [mahmudbappy.pri@gmail.com](mailto:mahmudbappy.pri@gmail.com)
+Ask me anything [mahmudbappy.pri@gmail.com](mailto:mahmudbappy.pri@gmail.com)
 
 
