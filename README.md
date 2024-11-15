@@ -18,6 +18,7 @@ I'm a full stack developer, currently working with Laravel, Vue web applications
 - ~~**[Singo.IO](https://singo.io)**~~ - Singo - Music Distribution Publish Your Music On Spotify & Co.
 - ~~**[Beast Boxes](https://beast-boxes.com)**~~ - A digital mystery box gaming website built with Laravel framework.
 - ~~**[Anaxi](https://anaxi.co)**~~ - An unique platform to improve teachers productivity, building with Tailwind, Vue & Laravel.
+- **[Bulk.ly](https://bulk.ly/)** - A social automation platform.
 
 
 Ask me anything [mahmudbappy.pri@gmail.com](mailto:mahmudbappy.pri@gmail.com)
