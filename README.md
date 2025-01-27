@@ -9,7 +9,9 @@
 [![stackoverflow badge](https://img.shields.io/badge/stackoverflow-gold?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/7411349/mahmudul-hasan)
 
 <br>
-I'm a full stack developer, currently working with Laravel, Vue web applications.
+I'm a software engineer specialied in web technologies with more than 6 years of experience. I design and develop web applications utilizing the various tech stack. 
+<br>
+I mostly proficient with PHP, Laravel, VueJS, ReactJS, MySQL. Server management is also something I handle on a regular basis.
 <br>
 
 ### Recent Projects 🎉
@@ -21,6 +23,6 @@ I'm a full stack developer, currently working with Laravel, Vue web applications
 - **[Bulk.ly](https://bulk.ly/)** - A social automation platform.
 
 
-Ask me anything [mahmudbappy.pri@gmail.com](mailto:mahmudbappy.pri@gmail.com)
+Say [hello@mahmudz.dev](mailto:hello@mahmudz.dev)
 
 
