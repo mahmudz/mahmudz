@@ -16,6 +16,7 @@ I mostly proficient with PHP, Laravel, VueJS, ReactJS, MySQL. Server management 
 
 ### Recent Projects 🎉
 - **[Megaradio](https://megaradio.live)** - Megaradio - A modern internet radio platform.
+- **[The Vendlist](https://thevendlistapp.com)** - Ultimate Vending Business Resource.
 - ~~**[ArtgraphAI](https://artgraph.ai/)**~~ - ArtgraphAI - Artist market, analyzed.
 - ~~**[Singo.IO](https://singo.io)**~~ - Singo - Music Distribution Publish Your Music On Spotify & Co.
 - ~~**[Beast Boxes](https://beast-boxes.com)**~~ - A digital mystery box gaming website built with Laravel framework.
