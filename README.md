@@ -9,9 +9,9 @@
 [![stackoverflow badge](https://img.shields.io/badge/stackoverflow-gold?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/7411349/mahmudul-hasan)
 
 <br>
-I'm a software engineer specialied in web technologies with more than 6 years of experience. I design and develop web applications utilizing the various tech stack. 
+I'm a software engineer specializing in web technologies with over 6 years of experience. I design and develop web applications utilizing various tech stacks.
 <br>
-I mostly proficient with PHP, Laravel, VueJS, ReactJS, MySQL. Server management is also something I handle on a regular basis.
+I am mostly proficient with PHP, Laravel, VueJS, ReactJS, and MySQL. Server management is also something I handle regularly.
 <br>
 
 ### Recent Projects 🎉
