@@ -18,11 +18,11 @@ I've taken projects from whiteboard to production, owning the full lifecycle end
 
 
 ### Recent Projects 🎉
-- **[SupercarDriver](https://supercardriver.com)** - SupercarDriver - A supercar driver club where members can join and make memories through exclusive driving experiences.
-- **[Megaradio](https://megaradio.live)** - Megaradio - A modern internet radio platform.
+- **[SupercarDriver](https://supercardriver.com)** - A supercar driver club where members can join and make memories through exclusive driving experiences.
+- **[Megaradio](https://megaradio.live)** - A modern internet radio platform.
 - **[The Vendlist](https://thevendlistapp.com)** - Ultimate Vending Business Resource.
-- ~~**[ArtgraphAI](https://artgraph.ai/)**~~ - ArtgraphAI - Artist market, analyzed.
-- ~~**[Singo.IO](https://singo.io)**~~ - Singo - Music Distribution Publish Your Music On Spotify & Co.
+- ~~**[ArtgraphAI](https://artgraph.ai/)**~~ - Artist market, analyzed.
+- ~~**[Singo.IO](https://singo.io)**~~ - Music Distribution Publish Your Music On Spotify & Co.
 - ~~**[Beast Boxes](https://beast-boxes.com)**~~ - A digital mystery box gaming website built with the Laravel framework.
 - ~~**[Anaxi](https://anaxi.co)**~~ - A unique platform to improve teachers' productivity, built with Tailwind, Vue & Laravel.
 - **[Bulk.ly](https://bulk.ly/)** - A social automation platform.
