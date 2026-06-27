@@ -18,6 +18,7 @@ I've taken projects from whiteboard to production, owning the full lifecycle end
 
 
 ### Recent Projects 🎉
+- **[SupercarDriver](https://supercardriver.com)** - SupercarDriver - A supercar driver club where members can join and make memories through exclusive driving experiences.
 - **[Megaradio](https://megaradio.live)** - Megaradio - A modern internet radio platform.
 - **[The Vendlist](https://thevendlistapp.com)** - Ultimate Vending Business Resource.
 - ~~**[ArtgraphAI](https://artgraph.ai/)**~~ - ArtgraphAI - Artist market, analyzed.
